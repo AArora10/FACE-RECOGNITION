@@ -1,6 +1,6 @@
 body{
     color : white; 
-    background-color: paleturquoise;
+    background-color: rgb(9, 82, 3);
     
 }
 
@@ -16,6 +16,6 @@ body{
 
 }
 
-.name_of_object, #result_object_name, #result_object_accuracy{    
-   color:rgb(16, 121, 112); 
+.name_of_ppl, #result_object_name, #result_object_accuracy{    
+   color:rgb(242, 255, 126); 
 }
